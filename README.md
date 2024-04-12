@@ -1,5 +1,4 @@
-# Security Awareness Training - Email Phishing
-
+# Email Phishing Security Awareness Training 
 
 ### Security Awareness Project
 This is a security awareness training project I have completed regarding email phishing.
