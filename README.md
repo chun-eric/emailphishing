@@ -1,4 +1,4 @@
-# Email Phishing Security Awareness Training 
+# Email Phishing Security Awareness Training 💌💌
 
 ### Security Awareness Project Overview
 This project focuses on Just-In-Time cybersecurity awareness training tailored to 
@@ -8,10 +8,10 @@ Below are the steps we took to complete this lab.
 <br/>
 
 ### Step 1: Identifying the Specific Risk 💥 
-The primary objective of this step is to educate end-users about the risks associated with misconfigured AWS S3 Buckets. 
+The primary objective of this step is to educate end-users about the risks associated with clicking on compromised email. 
 To enhance the relevance and urgency of this message, we provide a real-life example demonstrating 
-the potential negative impacts of such misconfigurations, 
-thereby emphasizing the importance of vigilant and informed handling of AWS resources.
+the potential negative impacts of being email phished, 
+emphasizing the importance of always handling email links and susupicious email with extreme care.
 
 <br/>
 
