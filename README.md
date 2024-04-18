@@ -9,26 +9,23 @@ Below are the steps we took to complete this lab.
 
 ### Step 1: Identifying the Specific Risk 💥 
 The primary objective of this step is to educate end-users about the risks associated with clicking on compromised email. 
-To enhance the relevance and urgency of this message, we provide a real-life example demonstrating 
-the potential negative impacts of being email phished, 
+To enhance the relevance and urgency of this message, we provide a real-life example demonstrating the potential negative impacts of being email phished, 
 emphasizing the importance of always handling email links and susupicious email with extreme care.
 
 <br/>
 
 ### Step 2: Providing Remediation and Solutions 👍
 Once the risk has been clearly articulated, the next step involves offering practical remediation strategies. 
-This includes directing users to specific AWS documentation that details necessary security measures and role-based access control (RBAC) settings. 
-This guidance helps ensure that users are well-equipped to prevent or address security lapses effectively.
+
+This includes noticing the clear signs of an email phishing attack and clear steps end users can take to mitigate and counter these attacks. 
 
 <br/>
 
 ### Step 3: Effective Communication Strategies 📑 
 Determining the target audience is crucial for effective communication. 
-This training is designed specifically for IT personnel, R&D teams, 
-and any individual responsible for configuring AWS S3 Buckets. 
+This training is designed specifically for all personnel within the organization. 
 
-The training material, including a comprehensive video, is distributed directly via email, 
-embedded to avoid external links and ensure ease of access.
+The training content, which is a Just-In-Time video, is distributed directly via embedded email, to avoid external links and ensure ease of access.
 
 <br/>
 
