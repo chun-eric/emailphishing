@@ -2,7 +2,7 @@
 
 ### Security Awareness Project Overview
 This project focuses on Just-In-Time cybersecurity awareness training tailored to 
-address specific security risks associated with AWS technologies.
+address specific security risks associated with Email Phishing.
 
 Below are the steps we took to complete this lab.
 <br/>
@@ -42,6 +42,7 @@ Such metrics are instrumental in evaluating the training's effectiveness.
 Additionally, for those who have not engaged with the material, 
 a follow-up reminder will be sent to encourage their participation.
 
+Watch the video below.
 <br/>
 
 [![IMAGE_ALT TEXT](https://img.youtube.com/vi/AEjrgBnae7s/0.jpg)](https://youtu.be/AEjrgBnae7s)
